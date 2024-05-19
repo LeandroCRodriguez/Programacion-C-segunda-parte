@@ -1,0 +1,11 @@
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_2\Logica\bin\Debug\net7.0\Logica.deps.json
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_2\Logica\bin\Debug\net7.0\Logica.dll
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_2\Logica\bin\Debug\net7.0\Logica.pdb
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_2\Logica\obj\Debug\net7.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_2\Logica\obj\Debug\net7.0\Logica.AssemblyInfoInputs.cache
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_2\Logica\obj\Debug\net7.0\Logica.AssemblyInfo.cs
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_2\Logica\obj\Debug\net7.0\Logica.csproj.CoreCompileInputs.cache
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_2\Logica\obj\Debug\net7.0\Logica.dll
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_2\Logica\obj\Debug\net7.0\refint\Logica.dll
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_2\Logica\obj\Debug\net7.0\Logica.pdb
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_2\Logica\obj\Debug\net7.0\ref\Logica.dll

@@ -1,0 +1,17 @@
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\bin\Debug\net7.0-windows\Clase_5_Ejercicio_1.exe
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\bin\Debug\net7.0-windows\Clase_5_Ejercicio_1.deps.json
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\bin\Debug\net7.0-windows\Clase_5_Ejercicio_1.runtimeconfig.json
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\bin\Debug\net7.0-windows\Clase_5_Ejercicio_1.dll
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\bin\Debug\net7.0-windows\Clase_5_Ejercicio_1.pdb
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\obj\Debug\net7.0-windows\Clase_5_Ejercicio_1.Form1.resources
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\obj\Debug\net7.0-windows\Clase_5_Ejercicio_1.FormSaludo.resources
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\obj\Debug\net7.0-windows\Clase_5_Ejercicio_1.csproj.GenerateResource.cache
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\obj\Debug\net7.0-windows\Clase_5_Ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\obj\Debug\net7.0-windows\Clase_5_Ejercicio_1.AssemblyInfoInputs.cache
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\obj\Debug\net7.0-windows\Clase_5_Ejercicio_1.AssemblyInfo.cs
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\obj\Debug\net7.0-windows\Clase_5_Ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\obj\Debug\net7.0-windows\Clase_5_Ejercicio_1.dll
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\obj\Debug\net7.0-windows\refint\Clase_5_Ejercicio_1.dll
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\obj\Debug\net7.0-windows\Clase_5_Ejercicio_1.pdb
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\obj\Debug\net7.0-windows\Clase_5_Ejercicio_1.genruntimeconfig.cache
+C:\Leandro\UTN GuitHub\Clase_5_Ejercicio_1\Clase_5_Ejercicio_1\obj\Debug\net7.0-windows\ref\Clase_5_Ejercicio_1.dll

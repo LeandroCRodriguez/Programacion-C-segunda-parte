@@ -1,0 +1,4 @@
+C:\Leandro\UTN GuitHub\ParcialEmpresa\Logica\obj\Debug\net7.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leandro\UTN GuitHub\ParcialEmpresa\Logica\obj\Debug\net7.0\Logica.AssemblyInfoInputs.cache
+C:\Leandro\UTN GuitHub\ParcialEmpresa\Logica\obj\Debug\net7.0\Logica.AssemblyInfo.cs
+C:\Leandro\UTN GuitHub\ParcialEmpresa\Logica\obj\Debug\net7.0\Logica.csproj.CoreCompileInputs.cache

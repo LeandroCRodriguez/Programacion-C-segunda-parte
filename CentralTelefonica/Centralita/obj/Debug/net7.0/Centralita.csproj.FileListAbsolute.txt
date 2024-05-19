@@ -1,0 +1,11 @@
+C:\Leandro\UTN GuitHub\CentralTelefonica\Centralita\bin\Debug\net7.0\Centralita.deps.json
+C:\Leandro\UTN GuitHub\CentralTelefonica\Centralita\bin\Debug\net7.0\Centralita.dll
+C:\Leandro\UTN GuitHub\CentralTelefonica\Centralita\bin\Debug\net7.0\Centralita.pdb
+C:\Leandro\UTN GuitHub\CentralTelefonica\Centralita\obj\Debug\net7.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leandro\UTN GuitHub\CentralTelefonica\Centralita\obj\Debug\net7.0\Centralita.AssemblyInfoInputs.cache
+C:\Leandro\UTN GuitHub\CentralTelefonica\Centralita\obj\Debug\net7.0\Centralita.AssemblyInfo.cs
+C:\Leandro\UTN GuitHub\CentralTelefonica\Centralita\obj\Debug\net7.0\Centralita.csproj.CoreCompileInputs.cache
+C:\Leandro\UTN GuitHub\CentralTelefonica\Centralita\obj\Debug\net7.0\Centralita.dll
+C:\Leandro\UTN GuitHub\CentralTelefonica\Centralita\obj\Debug\net7.0\refint\Centralita.dll
+C:\Leandro\UTN GuitHub\CentralTelefonica\Centralita\obj\Debug\net7.0\Centralita.pdb
+C:\Leandro\UTN GuitHub\CentralTelefonica\Centralita\obj\Debug\net7.0\ref\Centralita.dll
